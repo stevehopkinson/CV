@@ -8,9 +8,13 @@ Early-career web developer looking for a challenging role with the opportunity t
 ## Technologies
 
 __Client-side__: HTML5, CSS3, JavaScript (including ES6), mobile-first design, jQuery, API calls.
+
 __Server-side__: Node.js, web frameworks (Express, Hapi), test suites (Tape), templating (Handlebars).
+
 __Databases__: MS SQL, MySQL, PostgreSQL.
+
 __Development tools__: Git, GitHub, linters (ESLint), continuous integration (Travis).
+
 __Secondary languages__: Python, Java, C.
 
 
@@ -20,9 +24,9 @@ __Secondary languages__: Python, Java, C.
 
 A four-month intensive web development course, with a focus on working in small teams to produce test-driven, open-source software for.
 
-### __BA (Hons) English Literature (first class)__, University of Durham, _2007-2010_
+#### __BA (Hons) English Literature (first class)__, University of Durham, _2007-2010_
 
-### __A-Level Mathematics, History, English (AAA)__, Hills Road Sixth Form College, _2004-2006_
+#### __A-Level Mathematics, History, English (AAA)__, Hills Road Sixth Form College, _2004-2006_
 
 
 ## Experience
