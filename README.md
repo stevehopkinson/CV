@@ -7,7 +7,7 @@ Early-career web developer looking for a challenging role with the opportunity t
 
 ## Technologies
 
-__Client-side__: HTML5, CSS3, JavaScript (including ES6), mobile-first design, React, Redux, jQuery, API calls.
+__Client-side__: HTML5, CSS3, JavaScript (including ES6), mobile-first design, React, Redux, jQuery.
 
 __Server-side__: Node.js, web frameworks (Express, Hapi), test suites (Tape), templating (Handlebars).
 
